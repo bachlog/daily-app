@@ -13,5 +13,5 @@ This simple Streamlit app based on blank-app template (https://blank-app-templat
 2. Run the app
 
    ```
-   $ streamlit run weather_app.py
+   $ streamlit run streamlit_app.py
    ```
