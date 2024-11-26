@@ -1,10 +1,8 @@
-# 🎈 Blank app template
+# Daily app
 
-A simple Streamlit app template for you to modify!
+This simple Streamlit app based on blank-app template (https://blank-app-template.streamlit.app/)
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
+## Run
 
 1. Install the requirements
 
@@ -15,5 +13,5 @@ A simple Streamlit app template for you to modify!
 2. Run the app
 
    ```
-   $ streamlit run streamlit_app.py
+   $ streamlit run weather_app.py
    ```
